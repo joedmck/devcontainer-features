@@ -1,0 +1,10 @@
+{
+    "name": "Cloudflare Tunnel Client (cloudflared)",
+    "id": "cloudflared",
+    "version": "1.0.0",
+    "description": "Install Cloudflare Tunnel Client (cloudflared)",
+    "options": {},
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
