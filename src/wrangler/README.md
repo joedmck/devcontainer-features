@@ -1,7 +1,7 @@
 
 # Cloudflare Wrangler CLI (via npm) (wrangler)
 
-Install Cloudflare Wrangler CLI via NPM.
+A command-line tool for building with Cloudflare developer products.
 
 ## Example Usage
 

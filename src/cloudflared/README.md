@@ -1,7 +1,7 @@
 
 # Cloudflare Tunnel Client (cloudflared)
 
-Install Cloudflare Tunnel Client (cloudflared)
+A tunneling daemon that proxies traffic from the Cloudflare network to your origins.
 
 ## Example Usage
 
