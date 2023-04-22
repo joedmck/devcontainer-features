@@ -1,8 +1,8 @@
 {
-    "name": "CDK for Terraform (via npm)",
-    "id": "cdktf",
+    "name": "Cloudflare Wrangler CLI (via npm)",
+    "id": "wrangler",
     "version": "1.0.0",
-    "description": "Install CDK for Terraform (cdktf) via NPM.",
+    "description": "Install Cloudflare Wrangler CLI via NPM.",
     "options": {
         "version": {
             "type": "string",
