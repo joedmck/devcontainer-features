@@ -1,0 +1,16 @@
+{
+    "name": "CDK for Terraform (via npm)",
+    "id": "cdktf",
+    "version": "1.0.0",
+    "description": "Install CDK for Terraform (cdktf) via NPM.",
+    "options": {
+        "version": {
+            "type": "string",
+            "default": "latest",
+            "description": "Version to install."
+        }
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
