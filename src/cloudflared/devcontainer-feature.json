@@ -2,7 +2,7 @@
     "name": "Cloudflare Tunnel Client",
     "id": "cloudflared",
     "version": "1.0.2",
-    "description": "Install Cloudflare Tunnel Client (cloudflared)",
+    "description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins.",
     "options": {},
     "installsAfter": [
         "ghcr.io/devcontainers/features/common-utils"

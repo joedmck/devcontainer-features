@@ -2,7 +2,7 @@
     "name": "CDK for Terraform CLI (via npm)",
     "id": "cdktf",
     "version": "1.0.0",
-    "description": "Install CDK for Terraform(cdktf) CLI via NPM.",
+    "description": "Manage infrastructure with your preferred programming language.",
     "options": {
         "version": {
             "type": "string",

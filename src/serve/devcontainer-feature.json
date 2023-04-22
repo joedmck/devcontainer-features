@@ -1,8 +1,8 @@
 {
-    "name": "Cloudflare Wrangler CLI (via npm)",
-    "id": "wrangler",
+    "name": "Serve (via NPM)",
+    "id": "serve",
     "version": "1.0.0",
-    "description": "A command-line tool for building with Cloudflare developer products.",
+    "description": "Static file serving and directory listing.",
     "options": {
         "version": {
             "type": "string",

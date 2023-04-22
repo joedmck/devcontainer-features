@@ -34,3 +34,15 @@ Install Cloudflare Wrangler CLI (`wrangler`) in a Dev Contianer.
     }
 }
 ```
+## `serve`
+
+Install Serve (`serve`) in a Dev Contianer.
+```json
+{
+    "features": {
+        "ghcr.io/joedmck/devcontainer-features/serve:1": {
+            "version": "latest"
+        }
+    }
+}
+```
