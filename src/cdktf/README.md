@@ -1,7 +1,7 @@
 
 # CDK for Terraform CLI (via npm) (cdktf)
 
-Install CDK for Terraform(cdktf) CLI via NPM.
+Manage infrastructure with your preferred programming language.
 
 ## Example Usage
 
