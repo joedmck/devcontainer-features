@@ -1,5 +1,5 @@
 {
-    "name": "Cloudflare Tunnel Client (cloudflared)",
+    "name": "Cloudflare Tunnel Client",
     "id": "cloudflared",
     "version": "1.0.0",
     "description": "Install Cloudflare Tunnel Client (cloudflared)",
