@@ -1,5 +1,5 @@
 
-# Cloudflare Tunnel Client (cloudflared) (cloudflared)
+# Cloudflare Tunnel Client (cloudflared)
 
 Install Cloudflare Tunnel Client (cloudflared)
 
