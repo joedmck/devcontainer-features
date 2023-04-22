@@ -22,9 +22,9 @@
         "ghcr.io/devcontainers/features/docker-in-docker:2": {
             "moby": false,
         },
-        "./wrangler/": {
-            "version": "2.2.4"
-        }
+        "ghcr.io/joedmck/devcontainer-features/cloudflared:1": {},
+        "ghcr.io/joedmck/devcontainer-features/wrangler:1": {},
+        "ghcr.io/joedmck/devcontainer-features/cdktf:1": {}
     },
     "remoteUser": "node",
     "updateContentCommand": "npm install -g @devcontainers/cli"
